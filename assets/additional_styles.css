@@ -1,9 +1,83 @@
 /* Additional styles */
 
+/*Additional code lines to original file:*/
 body {
   font-family: "Open Sans";
+  background-color: #FBFBFB;
 }
 
+/*.row{
+  border: thin grey solid;
+}
+img, form, h1, h2, p{
+  border: thin green solid;
+}*/
+
+h4 {
+  font-size: 20px;
+  line-height: 190%;
+}
+h2{
+  font-size: 30px;
+}
+h1{
+  font-size: 36px;
+}
+.form-group{
+  margin: 0px;
+  border: 0px;
+}
+.form{
+  margin: 0px;
+  border: 0px;
+}
+h3{
+  font-weight: bold;
+  font-size: 17px;
+  color: #999999;
+}
+.list-unstyled li {
+  margin-top: 10px;
+  color: #777777;
+}
+.navbar-header{
+  padding-left: 70px;
+  color:#007EE5;
+}
+.navbar-default ul li a{
+  color: #007EE5 !important;
+  text-decoration: none
+}
+.navbar-brand{
+  color: #007EE5 !important;
+  text-decoration: none
+}
+.enblanco{
+background-color:#FFFFFF;
+}
+
+
+.navbar-default{
+  background-color:#FFFFFF;
+}
+.navbut{
+  margin-left: 0px;
+}
+.espacio{
+  padding-top: 40px;
+}
+.espacio2{
+  padding-top: 120px;
+}
+.form-group{
+  margin-top: 20px;
+}
+.col-md-10{
+  padding-top: 50px;
+}
+.navbar-right{
+  padding-right: 100px;
+}
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
@@ -71,7 +145,7 @@ body {
 }
 
 .margin-below-bottom-md {
-  margin-bottom: 50px;
+  margin-bottom: 500px;
 }
 
 .margin-below-bottom-lg {
