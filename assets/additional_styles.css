@@ -15,17 +15,28 @@ img, form, h1, h2, p{
 
 h4 {
   font-size: 20px;
-  line-height: 190%;
+  line-height: 175%;
+  font-weight: lighter;
+}
+.sidespace{
+  padding-right: 50px;
+  padding-left: 50px;
 }
 h2{
   font-size: 30px;
+
+
+  font-weight: lighter;
 }
 h1{
   font-size: 36px;
+line-height: 125%;
+  font-weight: lighter;
 }
 .form-group{
   margin: 0px;
   border: 0px;
+  padding-top: 0px;
 }
 .form{
   margin: 0px;
@@ -70,13 +81,19 @@ background-color:#FFFFFF;
   padding-top: 120px;
 }
 .form-group{
-  margin-top: 20px;
+  margin-top: 15px;
 }
 .col-md-10{
   padding-top: 50px;
 }
 .navbar-right{
   padding-right: 100px;
+}
+.borderup{
+  padding-top: 20px;
+  border-top: #EEEEEE solid;
+  margin-top: 20px;
+  bor
 }
 /* My standard vertical spacing classes */
 
